@@ -98,7 +98,7 @@ namespace Obloq {
         //% blockId=SERVERS_China block="China"
         China,
         //% blockId=SERVERS_Global block="Global"
-        Global
+        Global,
         //% blockId=SERVERS_Global block="Local"
         Local
 
